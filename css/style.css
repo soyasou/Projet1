@@ -100,6 +100,8 @@ h2 {
   padding-right: 30px;
   background-color: #43425d;
   border-color: #707070;
+  border-radius: 50px;
+  color: white;
 }
 
 .half .forgot-pass {
